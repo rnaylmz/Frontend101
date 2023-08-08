@@ -1,4 +1,4 @@
 
 # HTML ÖDEV 1
 
-![Ödev1](![Alt text](image.png))
+![Ödev1](C:\Users\RNA.DESKTOP-STCSAFL\Desktop\Untitled.png)
