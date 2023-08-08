@@ -1,4 +1,4 @@
 
 # HTML ÖDEV 1
 
-(![Alt text](image.png))
+![Alt text](image.png)
